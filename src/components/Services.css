@@ -1,0 +1,29 @@
+.services{
+    width: auto;
+    height: auto;
+    color: #fff;
+    background-image: url("https:://src/images/backwhite.png") no-repeat center/cover;
+    background-attachment: fixed;
+    display: flex;
+}
+
+
+ 
+
+  
+        .fadepara 
+        {
+        width: 100%;
+        max-width: 840px;
+        margin: 10px;
+        background-image: linear-gradient(
+            transparent 30%,
+            currentcolor 40%,
+            currentcolor 60%,
+            transparent 70%
+        );
+        background-clip: text;
+        -webkit-background-clip: text;
+        background-attachment: fixed;
+    }
+
